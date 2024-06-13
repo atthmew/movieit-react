@@ -46,7 +46,6 @@ Technologies that I used to develop the app
 - [React-Router-Dom](https://reactrouter.com/en/main)
 - [ReduxJS](https://redux.js.org/)
 - [React-Icons](https://github.com/wwayne/react-tooltip)
-- [Nodemon](https://nodemon.io/) v)
 - [VS Code](https://code.visualstudio.com) with [Prettier RC](https://github.com/prettier/prettier)
 
 ## 👨🏼‍💻 Getting Started
