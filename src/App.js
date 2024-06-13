@@ -18,7 +18,10 @@ const router = createBrowserRouter(
 			<Route path=":id" element={<MovieDetails />} loader={movieDetailLoader} />
 			<Route path="watch-list" element={<WatchList />} />
 			<Route path="watch-list/:id" element={<MovieDetailsWL />} loader={movieDetailLoader} />
-		</Route>
+		</Route>,
+		{
+			basename: '/movieit-react',
+		}
 	)
 );
 
