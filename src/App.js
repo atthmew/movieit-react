@@ -1,5 +1,4 @@
 import { useRef, useState } from 'react';
-
 import { Route, RouterProvider, createBrowserRouter, createRoutesFromElements } from 'react-router-dom';
 
 // layouts
@@ -18,11 +17,11 @@ const router = createBrowserRouter(
 			<Route path=":id" element={<MovieDetails />} loader={movieDetailLoader} />
 			<Route path="watch-list" element={<WatchList />} />
 			<Route path="watch-list/:id" element={<MovieDetailsWL />} loader={movieDetailLoader} />
-		</Route>,
-		{
-			basename: '/movieit-react',
-		}
-	)
+		</Route>
+	),
+	{
+		basename: '/movieit-react', // Add your repository name here
+	}
 );
 
 function App() {
