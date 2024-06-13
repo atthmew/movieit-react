@@ -29,8 +29,8 @@
 <img alt="Discord logo" src="https://github.com/atthmew/movieit-react/blob/main/screenshots/movieit2.png" height="350px" width="400px" /> 
 <br/>
   <button>
-    <a href="https://youtu.be/STlR_XQ7X0Q"> 
-      <img alt="InterLink Demo" src="https://img.shields.io/badge/InterLink Demo-white?style=for-the-badge&logo=YouTube&label=YouTube&labelColor=red"/>
+    <a href="https://atthmew.github.io/movieit-react"> 
+      <img alt="Mov(i)e-It" src="https://img.shields.io/badge/Mov(i)e-It-white?style=for-the-badge&logo=YouTube&label=YouTube&labelColor=red"/>
     </a>
   </button>
 </p>
