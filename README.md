@@ -30,7 +30,7 @@
 <br/>
   <button>
     <a href="https://atthmew.github.io/movieit-react"> 
-      <img alt="Mov(i)e-It" src="https://img.shields.io/badge/Mov(i)e-It-white?style=for-the-badge&logo=YouTube&label=YouTube&labelColor=red"/>
+      <img alt="Mov(i)e-It" src="https://img.shields.io/badge/Mov(i)e It-white?style=for-the-badge&logo=YouTube&label=YouTube&labelColor=red"/>
     </a>
   </button>
 </p>
