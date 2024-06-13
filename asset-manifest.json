@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/movieit-react/static/css/main.83496077.css",
-    "main.js": "/movieit-react/static/js/main.3610a929.js",
+    "main.js": "/movieit-react/static/js/main.e73337dd.js",
     "index.html": "/movieit-react/index.html",
     "main.83496077.css.map": "/movieit-react/static/css/main.83496077.css.map",
-    "main.3610a929.js.map": "/movieit-react/static/js/main.3610a929.js.map"
+    "main.e73337dd.js.map": "/movieit-react/static/js/main.e73337dd.js.map"
   },
   "entrypoints": [
     "static/css/main.83496077.css",
-    "static/js/main.3610a929.js"
+    "static/js/main.e73337dd.js"
   ]
 }
