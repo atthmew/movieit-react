@@ -42,7 +42,6 @@
 Technologies that I used to develop the app
 
 - [ReactJS](https://react.dev/)
-- [NodeJS](https://nodejs.org/en)
 - [React-Router-Dom](https://reactrouter.com/en/main)
 - [ReduxJS](https://redux.js.org/)
 - [React-Icons](https://github.com/wwayne/react-tooltip)
